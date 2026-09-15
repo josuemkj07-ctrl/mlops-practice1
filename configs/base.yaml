@@ -1,0 +1,13 @@
+project:
+  name: mlops-collaboratif
+  experiment_name: baseline
+data:
+  path: data/raw/dataset.csv
+  target: target
+  task: classification # classification ou regression
+  test_size: 0.2
+  random_state: 42
+model:
+  name: random_forest
+  n_estimators: 200
+  max_depth: null

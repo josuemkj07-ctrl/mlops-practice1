@@ -1,7 +1,7 @@
 # Projet MLOps collaboratif
 
 # premiere contribution perso 
-# à Ameliorer
+# à Ameliorer apres
 
 Ce dépôt sert de socle à un projet de machine learning reproductible à trois : préparation de données, analyse descriptive, entraînement d'un modèle de classification ou de régression, évaluation et suivi avec MLflow.
 
